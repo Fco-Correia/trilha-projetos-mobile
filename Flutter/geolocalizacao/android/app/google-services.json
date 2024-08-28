@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "613474338148",
+    "project_id": "minhasviagens-973d8",
+    "storage_bucket": "minhasviagens-973d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613474338148:android:316e010ef5a07f6deea671",
+        "android_client_info": {
+          "package_name": "com.example.geolocalizacao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO1gT_H2pMjWjLFpuVBvSBGhb37cS6WXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

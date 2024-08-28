@@ -1,0 +1,15 @@
+01.App Frases
+02.Joken Po
+03.Alcool/Gasolina
+04.Atm(Navigator)
+05.Cara ou Coroa
+06.Cotação Bitcoin simples
+07.Youtube
+08.Lista de Tarefas com path_provider(fora do app ainda fala sobre preferencias)
+09.Lista de Tarefas com sqlite
+10.Aprenda inglês
+11.WhatsApp
+12.Minhas Viagens no arquivo geolocalizacao
+13.Uber
+14.Animações
+15.OLX
