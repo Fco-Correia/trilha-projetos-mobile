@@ -1,0 +1,21 @@
+# Ignorar dependências do Node.js
+node_modules/
+
+# Ignorar arquivos de build do Android
+**/android/.gradle/
+**/android/app/build/
+**/android/build/
+
+# Ignorar arquivos de build do iOS
+**/ios/Pods/
+**/ios/build/
+
+# Ignorar cache e arquivos de sistema
+.DS_Store
+.vscode/
+.idea/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Ignorar arquivos de build do Flutter
+**/build/

@@ -1,0 +1,5 @@
+// Renomear para .env, mas esse vai para 
+//o repositorio pq a chave ta vazia
+module.exports = {
+    authSecret: ''
+}
