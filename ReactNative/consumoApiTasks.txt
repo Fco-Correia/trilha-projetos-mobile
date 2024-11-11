@@ -1,8 +1,0 @@
-App React Native que consome a API de tasks
-
-começamos pelo index.js que:
-Esse é o arquivo de entrada do aplicativo. Ele importa o react-native-gesture-handler, que é necessário para o correto funcionamento de gestos no React Native, especialmente para navegação. Em seguida, o AppRegistry.registerComponent registra o componente principal da aplicação, que no seu caso é o Navigator, utilizando o nome do aplicativo que está no arquivo app.json. Esse arquivo é onde o React Native começa a executar o app.
-
-RECAPTULEI RAPIDAMENTE AGENDA
-REACPTULEI ESCOLA
-ESTOU RECAPTULANDO TASKS
